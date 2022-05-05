@@ -1,5 +1,5 @@
 # Anderson-Felix-de-Lyra
-## Olá eu sou o Anderson, estudante de Web Full Stack!
+## Olá, eu sou o Anderson estudante de Web Full Stack!
 
 <div align="center">
   <img width=400em src="https://github-readme-stats.vercel.app/api?username=Anderson-Felix-de-Lyra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
